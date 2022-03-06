@@ -5,7 +5,7 @@ subtitle: Some miscellaneous projects I've done over the years.
 cover-img: /assets/img/Celestial-Voyager.jpg
 thumbnail-img: /assets/img/watts-up.png
 share-img: /assets/img/Celestial-Voyager.jpg
-tags: [books, test]
+tags: [java, android, robotics, programming]
 ---
 ### **Grocery Store Simulator**
   Used Java to program a Grocery Store Simulator, emulating multiple objects like registers, queues, and groceries. Used optimization methods from calculus to design the most efficient   register and store.
