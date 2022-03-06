@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Allison Tee
 
 # Your name to show in the footer
-author: Some Person
+author: Allison Tee
 
 # --- List of links in the navigation bar --- #
 
@@ -39,23 +39,20 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "ateecup@stanford.edu"
+  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  github: WorldsEndDunce
+  youtube: c/World'sEndDunce
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+   linkedin: ateecup
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+  steam: ArihitoKataki
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -63,7 +60,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+ discord: users/World'sEndDunce#4780
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
