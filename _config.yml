@@ -14,10 +14,7 @@ author: Allison Tee
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  About Me / Contact: "aboutme"
   Author's home: "https://worldsenddunce.github.io"
 
 # --- Logo --- #
@@ -45,7 +42,7 @@ social-network-links:
   github: WorldsEndDUnce
 #  twitter: daattali
 #  patreon: DeanAttali
-  youtube: c/WorldsEndDunce
+# youtube: c/WorldsEndDunce
 #  medium: yourname
 #  reddit: yourname
   linkedin: ateecups
@@ -105,7 +102,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "allison tee, stanford, computer science"
 
 # --- Colours / background image --- #
 
