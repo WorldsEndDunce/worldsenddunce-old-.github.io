@@ -5,7 +5,7 @@ subtitle: Random arrangements and pieces I've written.
 thumbnail-img: /assets/img/Anoko.png
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [music, piano, reading]
 ---
 ## Here's a few of my Musescore arrangements:
 ### [Anoko Dokonoko](https://musescore.com/user/29726929/scores/5236523)
