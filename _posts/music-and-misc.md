@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Music and Misc Stuff
+title: Music and Misc. Stuff
 subtitle: Random arrangements I've done and pieces I've written.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
