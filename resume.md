@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: "Allison Tee - Resume"
 show-avatar: true
 nav-short: false
