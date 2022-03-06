@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-subtitle: Each post also has a subtitle
+title: Music and Misc Stuff
+subtitle: Some random arrangements I've done and pieces I've written.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
