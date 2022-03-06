@@ -14,7 +14,7 @@ A piano arrangement of a vocaloid song popular on the rhythm game Osu!
 ### [The Stars High in the Sky](https://musescore.com/user/29726929/scores/5913176)
 A partial arrangement for piano and violin of a battle theme from the game Granblue Fantasy. 
 
-![Grand Order](assets/img/Grand_Order_Impossible_twitter.jpg)
+![Grand Order](/assets/img/Grand_Order_Impossible_twitter.jpg)
 
 ### [The Muffin Song](https://musescore.com/user/29726929/scores/6887684)
 A song I wrote for my stuffed pet cat as a kid.
