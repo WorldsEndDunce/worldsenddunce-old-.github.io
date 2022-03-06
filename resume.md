@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Allison Tee - Resume"
+title: Allison Tee - Resume
+subtitle: "Some of my experiences and qualifications."
 show-avatar: true
 nav-short: false
 ---
