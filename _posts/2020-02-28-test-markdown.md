@@ -13,8 +13,10 @@ tags: [books, test]
   I co-authored the Wichita Collegiate robotics team engineering notebook for the 2019 season. The task was to design and build a robot to succeed in repairing power lines and cleaning   up debris on a game field simulating a post-natural disaster situation. Our "company" was named Watt's Up (power lines.)
   
   <img src="/assets/img/watts-up.png" width="400">
+  
 ### [**Tip Calculator (Android)**](https://github.com/WorldsEndDunce/Tip-Tool.git)
   Designed a mobile tip calculator app for android.
+  
 ### [**Flashcard App (Android) [WIP]**](https://github.com/WorldsEndDunce/Quizlet-Ripoff.git)
   Currently developing a flashcard app for android in the Codepath intro to mobile app development course. 
  <img src="/assets/img/Quizlet.png" width="400">
