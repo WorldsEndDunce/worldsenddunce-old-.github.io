@@ -14,7 +14,8 @@ author: Allison Tee
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me / Contact: "aboutme"
+  About Me: "aboutme"
+  Resume: "resume"
   Home: "https://worldsenddunce.github.io"
 
 # --- Logo --- #
