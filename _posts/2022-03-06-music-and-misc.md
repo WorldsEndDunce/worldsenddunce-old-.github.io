@@ -22,6 +22,3 @@ A piece satarizing College Board modeled after a typical SAT reading passage.
 ### [Thee Distance Formula (in Response to "The Distance Formula")](https://wcshemispheres.wordpress.com/hemispheres/the-distance-formula/)
 A short piece about Euclid and Geometry. Sadly, the links to the formulas are broken.
 
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
