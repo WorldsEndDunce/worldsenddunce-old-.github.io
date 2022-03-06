@@ -9,7 +9,7 @@ tags: [test]
 ---
 ## Here's a few of my Musescore arrangements:
 ### [Anoko Dokonoko](https://musescore.com/user/29726929/scores/5236523)
-A piano arrangement of a vocaloid song popular on the rhythm game Osu!
+A piano arrangement of a vocaloid song that's popular on the rhythm game Osu!
 ### [The Stars High in the Sky](https://musescore.com/user/29726929/scores/5913176)
 A partial arrangement for piano and violin of a battle theme from the game Granblue Fantasy. 
 
