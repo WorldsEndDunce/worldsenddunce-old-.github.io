@@ -39,12 +39,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ateecup@stanford.edu"
+ # email: "ateecup@stanford.edu"
  # rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: WorldsEndDunce
  # youtube: c/World'sEndDunce
 #  medium: yourname
-#  reddit: yourname
+# reddit: yourname
    linkedin: ateecup
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -60,7 +60,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-discord: users/WorldsEndDunce
+discord: users/WorldsEndDunce#4780
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
