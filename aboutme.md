@@ -8,4 +8,4 @@ Hello! I'm Allison, and I'm currently a first-year undergraduate at Stanford Uni
 
 ### My story
 
-I was born at a very young age (like, 0 or something) in Wichita, Kansas. I learned how to play the piano as a kid, and still study it in college. My favorite classical composer is probably Debussy because of all the color he puts in his pieces. On the J-pop side, I enjoy artists like Eve and Kikuo. In general, I like piano, Java, video games, to learn, drinking coffee, parallelism, and anime.
+I was born at a very young age (like, 0 or something) in Wichita, Kansas. I learned how to play the piano as a kid and still study it in college. My favorite classical composer is probably Debussy because of all the color he puts in his pieces. On the J-pop side, I enjoy artists like Eve and Kikuo. In general, I like piano, Java, video games, to learn, drinking coffee, parallelism, and anime.
