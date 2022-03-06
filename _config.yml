@@ -108,17 +108,17 @@ keywords: "allison tee, stanford, computer science"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+navbar-col: "#333333"
+navbar-text-col: "#ffffff"
+navbar-border-col: "#999999"
+page-col: "#111111"
+text-col: "#ffffff"
+link-col: "#ffbf00"
+hover-col: "#ff8303"
+footer-col: "#333333"
+footer-text-col: "#ffffff"
+footer-link-col: "#fffffff"
+footer-hover-col: "#ffbf00"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
