@@ -20,4 +20,4 @@ tags: [books, test]
 ### [**Flashcard App (Android) [WIP]**](https://github.com/WorldsEndDunce/Quizlet-Ripoff.git)
   I'm currently developing a flashcard app for android in the Codepath Intro to Mobile App Development course.
   
- <img src="/assets/img/Quizlet.png" width="400">
+ <img src="https://i.imgur.com/E5cNyrf.gif" width=400><br>
