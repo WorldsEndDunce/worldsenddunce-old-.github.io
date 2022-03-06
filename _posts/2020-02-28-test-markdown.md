@@ -15,8 +15,9 @@ tags: [books, test]
   <img src="/assets/img/watts-up.png" width="400">
   
 ### [**Tip Calculator (Android)**](https://github.com/WorldsEndDunce/Tip-Tool.git)
-  Designed a mobile tip calculator app for android.
+  Designed a mobile tip calculator app for android that calculates the tip and total price based off of a user's bill amount and tip percentage.
   
 ### [**Flashcard App (Android) [WIP]**](https://github.com/WorldsEndDunce/Quizlet-Ripoff.git)
-  Currently developing a flashcard app for android in the Codepath intro to mobile app development course. 
+  I'm currently developing a flashcard app for android in the Codepath Intro to Mobile App Development course.
+  
  <img src="/assets/img/Quizlet.png" width="400">
