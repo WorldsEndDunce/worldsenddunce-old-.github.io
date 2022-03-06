@@ -8,7 +8,7 @@ share-img: /assets/img/Celestial-Voyager.jpg
 tags: [java, android, robotics, programming]
 ---
 ### **Grocery Store Simulator**
-  Used Java to program a Grocery Store Simulator, emulating multiple objects like registers, queues, and groceries. Used optimization methods from calculus to design the most efficient   register and store.
+  Used Java to program a Grocery Store Simulator, emulating multiple objects like registers, queues, and groceries. Used optimization methods from calculus to design the most efficient and profitable store.
 ### [**Robotics Engineering Notebook**](https://docs.google.com/document/d/1xM8CXxxQqMyq4cRdJgjhIZt7fiYqd4VER3ynmn-LDfY/edit?usp=sharing) 
   I co-authored the Wichita Collegiate robotics team engineering notebook for the 2019 season. The task was to design and build a robot to succeed in repairing power lines and cleaning   up debris on a game field simulating a post-natural disaster situation. Our "company" was named Watt's Up (power lines.)
   
