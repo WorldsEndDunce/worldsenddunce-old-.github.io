@@ -19,7 +19,7 @@ A song I wrote for my stuffed pet cat as a kid.
 
 ## And some light reading:
 ### [SAT Mock Reading Passage](https://wcshemispheres.wordpress.com/hemispheres-2021/sat-reading-section-a-college-board-exposee/)
-A piece satarizing College Board modeled after a typical SAT reading passage.
+A piece satarizing the College Board modeled after a typical SAT reading passage.
 ### [Thee Distance Formula (in Response to "The Distance Formula")](https://wcshemispheres.wordpress.com/hemispheres/the-distance-formula/)
 A short piece about Euclid and Geometry. Sadly, the links to the formulas are broken.
 
