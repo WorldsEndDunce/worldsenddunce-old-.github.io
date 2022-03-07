@@ -15,12 +15,12 @@ A recording of me playing Chopin's Black Key Etude that I submitted to the Kansa
 
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oYp77IQAvc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<div class="videoWrapper">
+</div>
 Here's a clip of Moszkowski's Etude No. 11 in Ab Major. This is one of the two pieces I played for the Senseney Schneider Piano Competition where I won 2nd place. 
  
 <div class="videoWrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7WxXBhbyJAQ?start=275" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<div class="videoWrapper">
+</div>
 I participated in my high school's percussion ensemble and the smaller percussion quintet that played this particular piece (Rhyme or Reason). In Rhyme or Reason, I played a double marimba and tambourine part. In another piece we played called Aether, I performed with four mallets (two in each hand!). Our group received multiple I ratings at regional and state competitions.
 
 ## Here's a few of my Musescore arrangements:
