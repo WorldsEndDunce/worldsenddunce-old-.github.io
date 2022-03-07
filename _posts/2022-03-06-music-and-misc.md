@@ -20,7 +20,7 @@ I participated in my high school's percussion ensemble and the smaller percussio
 ## Here's a few of my Musescore arrangements:
 ### [Anoko Dokonoko](https://musescore.com/user/29726929/scores/5236523){:target="_blank"}
 A piano arrangement of a vocaloid song that's popular on the rhythm game Osu!
-### [The Stars High in the Sky](https://musescore.com/user/29726929/scores/5913176)
+### [The Stars High in the Sky](https://musescore.com/user/29726929/scores/5913176){:target="_blank"}
 A partial arrangement for piano and violin of a battle theme from the game Granblue Fantasy. 
 
 ![Grand Order](/assets/img/Grand_Order_Impossible_twitter.jpg)
