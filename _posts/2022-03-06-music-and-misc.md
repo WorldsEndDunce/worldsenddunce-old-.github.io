@@ -18,19 +18,19 @@ Here's a clip of Moszkowski's Etude No. 11 in Ab Major. This is one of the two p
 I participated in my high school's percussion ensemble and the smaller percussion quintet that played this particular piece (Rhyme or Reason). In Rhyme or Reason, I played a double marimba and tambourine part. In another piece we played called Aether, I performed with four mallets (two in each hand!). Our group received multiple I ratings at regional and state competitions.
 
 ## Here's a few of my Musescore arrangements:
-### [Anoko Dokonoko](https://musescore.com/user/29726929/scores/5236523)
+### [Anoko Dokonoko](https://musescore.com/user/29726929/scores/5236523){:target="_blank"}
 A piano arrangement of a vocaloid song that's popular on the rhythm game Osu!
 ### [The Stars High in the Sky](https://musescore.com/user/29726929/scores/5913176)
 A partial arrangement for piano and violin of a battle theme from the game Granblue Fantasy. 
 
 ![Grand Order](/assets/img/Grand_Order_Impossible_twitter.jpg)
-### [The Muffin Song](https://musescore.com/user/29726929/scores/6887684)
+### [The Muffin Song](https://musescore.com/user/29726929/scores/6887684){:target="_blank"}
 A song I wrote for my stuffed pet cat as a kid.
 
 ## And some light reading:
-### [SAT Mock Reading Passage](https://wcshemispheres.wordpress.com/hemispheres-2021/sat-reading-section-a-college-board-exposee/)
+### [SAT Mock Reading Passage](https://wcshemispheres.wordpress.com/hemispheres-2021/sat-reading-section-a-college-board-exposee/){:target="_blank"}
 A piece satirizing the College Board modeled after a typical SAT reading passage. Published online in my high school's literary magazine.
-### [Thee Distance Formula (in Response to "The Distance Formula")](https://wcshemispheres.wordpress.com/hemispheres/the-distance-formula/)
+### [Thee Distance Formula (in Response to "The Distance Formula")](https://wcshemispheres.wordpress.com/hemispheres/the-distance-formula/){:target="_blank"}
 A short piece about Euclid and Geometry. Sadly, the links to the formulas are broken.
 
  <img src="/assets/img/prisms.jpg" width=400><br>{: .mx-auto.d-block :}
