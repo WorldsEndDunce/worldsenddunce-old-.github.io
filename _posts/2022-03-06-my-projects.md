@@ -20,4 +20,4 @@ tags: [java, android, robotics, programming]
 ### [**Flashcard App (Android) [WIP]**](https://github.com/WorldsEndDunce/Quizlet-Ripoff.git){:target="_blank"}
   I'm currently developing a flashcard app for android in the Codepath Intro to Mobile App Development course.
   
- <img src="https://i.imgur.com/E5cNyrf.gif" width=400><br>
+<img src="https://i.imgur.com/HukUpnd.gif" width=400><br>
