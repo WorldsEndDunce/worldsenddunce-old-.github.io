@@ -16,7 +16,7 @@ I co-authored the Wichita Collegiate robotics team engineering notebook for the 
   
 ### [**Flashcard App (Android) [WIP]**](https://github.com/WorldsEndDunce/Quizlet-Ripoff.git){:target="_blank"}
 I'm currently using Java and SQL to develop a flashcard app for Android in the Codepath Intro to Mobile App Development course.
-<img src="https://i.imgur.com/HukUpnd.gif" width=400><br>
+<img src="https://i.imgur.com/ufnICPx.gif" width=400><br>
 
 ### [**Tip Calculator (Android)**](https://github.com/WorldsEndDunce/Tip-Tool.git){:target="_blank"}
 Designed a mobile tip calculator app for Android that calculates the tip and total price based off of a user's bill amount and tip percentage.
