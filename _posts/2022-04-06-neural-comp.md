@@ -2,9 +2,9 @@
 layout: page
 title: Neural Computation 
 subtitle: Powerpoint slides and memes on neural computation.
-cover-img: /assets/img/Celestial-Voyager.jpg
-thumbnail-img: /assets/img/watts-up.png
-share-img: /assets/img/Celestial-Voyager.jpg
+cover-img: /assets/img/fluorish.jpg
+thumbnail-img: /assets/img/mcculloch-pitts.png
+share-img: /assets/img/fluorish.jpg
 tags: [research, memes, neural computation, programming]
 ---
 ## Chapter 1: Intro
