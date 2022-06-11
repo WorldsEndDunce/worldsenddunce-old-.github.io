@@ -7,6 +7,8 @@ thumbnail-img: /assets/img/watts-up.png
 share-img: /assets/img/Celestial-Voyager.jpg
 tags: [java, android, robotics, programming]
 ---
+### [**Zoo of Distributions Website**](https://zoo-of-distributions.github.io/){:target="_blank"}
+Used HTML, CSS, and Javascript to create a generative art website to teach probability distributions in a visual and engaging way. Along with a video demo and written report, won the Grand Prize for Stanford's CS109 Probability Contest. 
 ### **Grocery Store Simulator**
 Used Java to program a Grocery Store Simulator, emulating multiple objects like registers, queues, and groceries. Used data structures and optimization methods from calculus to design the most efficient and profitable store.
 ### [**Flashcard App (Android)**](https://github.com/WorldsEndDunce/Quizlet-Ripoff.git){:target="_blank"}
