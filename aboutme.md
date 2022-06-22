@@ -4,8 +4,8 @@ title: About me
 subtitle: "Learning for the sake of learning."
 ---
 
-Hello! I'm Allison, and I'm currently a first-year undergraduate at Stanford University and a freelance tutor. I'm technically undeclared, but I plan on double majoring in computer science along with music. Some fields I'm interested in are neuroscience, biomedical engineering, BCIs, and machine learning. 
-Recently, I've gotten into Android app development and writing math proofs (they're like fun logic puzzles). This summer, I'll be doing research at the [Brains in Silicon Lab](https://web.stanford.edu/group/brainsinsilicon/){:target="_blank"} at Stanford as a CURIS fellow. 
+Hello! I'm Allison, and I'm a rising sophomore at Stanford University and a freelance tutor. I'm technically undeclared, but I plan on double majoring in math and music with a co-term in computer science. Some fields I'm interested in are neuroscience, biomedical engineering, BCIs, and machine learning. 
+Recently, I've gotten into website design and Elden Ring. This summer, I'm doing research at the [Brains in Silicon Lab](https://web.stanford.edu/group/brainsinsilicon/){:target="_blank"} at Stanford as a CURIS fellow. 
 
 <img src="/assets/img/20220305_194431.jpg" width="400">
 
