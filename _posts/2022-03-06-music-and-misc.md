@@ -28,6 +28,8 @@ A partial arrangement for piano and violin of a battle theme from the game Granb
 A song I wrote for my stuffed pet cat as a kid.
 
 ## And some light reading:
+### [The City of Wonderful Sounds](https://docs.google.com/document/d/1VtbJEh9S5__52NwLVHTFUfApv4jk5_55UUuQrMrTaFc/edit?usp=sharing){:target="_blank"}
+An article I wrote about the music of *Library of Ruina* (great game btw) for the final project in my music history class.
 ### [SAT Mock Reading Passage](https://wcshemispheres.wordpress.com/hemispheres-2021/sat-reading-section-a-college-board-exposee/){:target="_blank"}
 A piece satirizing the College Board modeled after a typical SAT reading passage. Published online in my high school's literary magazine.
 ### [Thee Distance Formula (in Response to "The Distance Formula")](https://wcshemispheres.wordpress.com/hemispheres/the-distance-formula/){:target="_blank"}
