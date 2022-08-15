@@ -7,7 +7,7 @@ thumbnail-img: /assets/img/watts-up.png
 share-img: /assets/img/Celestial-Voyager.jpg
 tags: [java, android, robotics, programming]
 ---
-### [**Zoo of Distributions Website**](https://zoo-of-distributions.github.io/){:target="_blank"}
+### [**Zoo of Distributions**](https://zoo-of-distributions.github.io/){:target="_blank"}
 Used HTML, CSS, and Javascript to create a generative art website to teach probability distributions in a visual and engaging way. This project (along with a video demo and written report) won the Grand Prize for Stanford's CS109 Probability Contest. 
 
 <img src="/assets/img/website.png" width="400">
