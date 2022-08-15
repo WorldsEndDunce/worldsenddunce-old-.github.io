@@ -1,10 +1,10 @@
 ---
 layout: page
-title: P
-subtitle: Neurocomputation research proposal presentation along with various informational powerpoint slides.
+title: Review of Stanford Classes
+subtitle: My opinion of (mostly math, music, and CS classes) at Stanford as I take them.
 cover-img: /assets/img/8c2b9fa.jpg
-thumbnail-img: /assets/img/mcculloch-pitts.jpg
+thumbnail-img: /assets/img/8c2b9fa.jpg
 share-img: /assets/img/8c2b9fa.jpg
-tags: [research, memes, neural computation, programming]
+tags: [stanford, cs, programming]
 ---
-## Do Neural Networks Dream of an Efficient PNG Search Algorithm?
+## TODO
