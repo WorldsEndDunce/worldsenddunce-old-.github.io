@@ -12,8 +12,12 @@ Collaborated with a team to build a web application to make language conversatio
 
 <img src="/assets/img/kittychat.gif" width="80%">
 
+### [**Annie's Kitchen Website**](https://annies-kitchen.github.io/){:target="_blank"}
+Used HTML/CSS/JS to design the website for Annie's Kitchen, a food business that specializes in Malaysian-Chinese dishes.
+<img src="/assets/img/annies-kitchen.PNG" width=500><br>
+
 ### [**Zoo of Distributions**](https://zoo-of-distributions.github.io/){:target="_blank"}
-Used HTML, CSS, and Javascript to create a generative art website to teach probability distributions in a visual and engaging way. This project (along with a video demo and written report) won the Grand Prize for Stanford's CS109 Probability Contest. 
+Used HTML/CSS/JS to create a generative art website to teach probability distributions in a visual and engaging way. This project (along with a video demo and written report) won the Grand Prize for Stanford's CS109 Probability Contest. 
 
 <img src="/assets/img/website.png" width="80%">
 
