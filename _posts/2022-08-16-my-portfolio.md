@@ -13,7 +13,7 @@ Collaborated with a team to build a web application to make language conversatio
 <img src="/assets/img/kittychat.gif" width="80%">
 
 ### [**Annie's Kitchen Website**](https://annies-kitchen.github.io/){:target="_blank"}
-Used HTML/CSS/JS to design the website for Annie's Kitchen, a food business that specializes in Malaysian-Chinese dishes.
+Used HTML/CSS/JS to design a website for Annie's Kitchen, a food business that specializes in Malaysian-Chinese dishes.
 <img src="/assets/img/annies-kitchen.PNG" width=500><br>
 
 ### [**Zoo of Distributions**](https://zoo-of-distributions.github.io/){:target="_blank"}
