@@ -15,7 +15,9 @@ Collaborated with a team to design and build a web application to make language 
 ### [**Annie's Kitchen Website**](https://annies-kitchen.github.io/){:target="_blank"}
 Used HTML/CSS/JS to design a website for Annie's Kitchen, a business that specializes in Malaysian-Chinese dishes.
 
-<img src="/assets/img/annies-kitchen.PNG" width=400 height=450><br><img src="/assets/img/annies-kitchen-gallery.PNG" width=400 height=450><br>
+<img src="/assets/img/annies-kitchen.PNG" width=400 height=450>
+
+<img src="/assets/img/annies-kitchen-gallery.PNG" width=400 height=450>
 
 ### [**Zoo of Distributions**](https://zoo-of-distributions.github.io/){:target="_blank"}
 Used HTML/CSS/JS to create a generative art website to teach probability distributions in a visual and engaging way. This project (along with a video demo and written report) won the Grand Prize for Stanford's CS109 Probability Contest. 
@@ -24,6 +26,7 @@ Used HTML/CSS/JS to create a generative art website to teach probability distrib
 
 ### [**Mario Kart Wii AI**](https://github.com/WorldsEndDunce/MKWii-CNN){:target="_blank"}
 Collaborated with a classmate to train a convolutional neural network to drive around a racetrack in Mario Kart Wii on an emulator. Presented development and results in a paper and video. Used Python libraries like TensorFlow and Keras.
+<iframe width="60%" src="https://www.youtube.com/embed/YENdqOkPpu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### [**Flashcard App**](https://github.com/WorldsEndDunce/Quizlet-Ripoff.git){:target="_blank"}
 Used Java and SQL to develop a flashcard app for Android in the Codepath Intro to Mobile App Development course.
