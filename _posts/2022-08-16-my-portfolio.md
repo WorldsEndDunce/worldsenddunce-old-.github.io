@@ -24,6 +24,9 @@ Used HTML/CSS/JS to create a generative art website to teach probability distrib
 
 <img src="/assets/img/website.png" width="80%">
 
+### [**Do Neural Networks Dream of an Efficient PNG Search Algorithm?**](https://www.allisonxtee.com/research/){:target="_blank"}
+Using Python and Julia, simulated spiking neural networks with differential equations and developed an improved algorithm to find polychronous neuronal groups (PNGs) representing memories in these networks. Check out my research page for more info!
+
 ### [**Mario Kart Wii AI**](https://github.com/WorldsEndDunce/MKWii-CNN){:target="_blank"}
 Collaborated with a classmate to train a convolutional neural network to drive around a racetrack in Mario Kart Wii on an emulator. Presented development and results in a paper and video. Used Python libraries like TensorFlow and Keras.
 <iframe width="60%" src="https://www.youtube.com/embed/YENdqOkPpu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
