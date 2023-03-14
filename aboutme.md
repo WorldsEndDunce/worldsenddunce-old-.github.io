@@ -4,7 +4,7 @@ title: About me
 subtitle: "Learning for the sake of learning."
 ---
 
-Hello! I'm Allison, and I'm a sophomore at Stanford University. I'm a double major in math and music with a co-term in computer science. Some fields I'm interested in are neuroscience, biomedical engineering, BCIs, and machine learning. I've been doing research at the [Brains in Silicon Lab](https://web.stanford.edu/group/brainsinsilicon/){:target="_blank"} at Stanford. You can check out the work I've done [here](https://worldsenddunce.github.io/research/)!
+Hello! I'm Allison, and I'm a double major in math and music with a co-term in computer science at Stanford University. Some fields I'm interested in are neuroscience, biomedical engineering, and machine learning. I've been doing research at the [Brains in Silicon Lab](https://web.stanford.edu/group/brainsinsilicon/){:target="_blank"} at Stanford. You can check out the work I've done [here](https://worldsenddunce.github.io/research/)!
 
 <img src="/assets/img/20220305_194431.jpg" width="400">
 
